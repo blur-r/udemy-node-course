@@ -24,8 +24,3 @@ app.use(errorController.get404)
 app.listen(3000);
 
 
-
-// module.exports = path.dirname(require.main.filename);
-
-// module.exports = path.dirname(process.mainModule.filename);
-
