@@ -1,9 +1,1 @@
-[
-  {
-    "id": "12345",
-    "title": "New book",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSo_ggjnq4oRsWzpWguCg1hRRw5qEILxAM3MAb-PAFQ&s",
-    "description": "A book is a written or printed work consisting of multiple pages fastened or bound together inside a cover, or an equivalent digital text format (e-book)",
-    "price": "19"
-  }
-]
+[{"id":"12345","title":"New book","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSo_ggjnq4oRsWzpWguCg1hRRw5qEILxAM3MAb-PAFQ&s","description":"A book is a written or printed work consisting of multiple pages fastened or bound together inside a cover, or an equivalent digital text format (e-book)","price":"19"},{"title":"s22 ultra","imageUrl":"https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/3845963/1.jpg?4047","description":"new Samsung phone ","price":"19999","id":"0.40720601848030835"}]
